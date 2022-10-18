@@ -1,6 +1,11 @@
 Bonjour !!!!!!!!!
 
 
+
+
+git a été créé par Linus Torvalds en 2005.
+
+
 j'utilise toujours git !!!!
 
 
