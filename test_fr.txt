@@ -2,3 +2,6 @@ Bonjour !!!!!!!!!
 
 
 j'utilise toujours git !!!!
+
+
+git est un logiciel de gestion de versions décentralisé.
